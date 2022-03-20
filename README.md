@@ -1,16 +1,21 @@
-### 💬 Bem vindo, meu nome é Tunai Ximenes atualmente estou estudando Java, SprintBoot e REACT buscando uma transição de carreira para a área de Desenvolvimento de software.
+### 💬 Bem vindo, eu sou Tunai Ximenes atualmente desenvolvedor ADVPL, Java, SprintBoot e REACT.
+<div>  
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=tunaiximenes&show_icons=true&theme=tokyonight"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunaiximenes&layout=compact&langs_count=5&theme=tokyonight&bg_color=DEG,0d1017,111620,0d1017"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunaiximenes&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunaiximenes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Protheus" height="30" width="40" src="https://github.com/tunaiximenes/tds-vscode/blob/master/imagens/totvs.svg">
 </div>
 
 <div> 
- Caso queira entrar em contato comigo, me envie uma mensagem no Linkedin </br>
+ Entre em contato comigo pelo Linkedin </br>
  <a href="https://www.linkedin.com/in/tunaiximenes/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
