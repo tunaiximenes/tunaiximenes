@@ -1,7 +1,7 @@
 <h1 align="center">Oi! 👋, Eu sou Tunai Ximenes</h1>
 <h3 align="center">Sou um desenvolvedor ADVPL, Java, SprintBoot e ReactJS.</h3>
 <img align="right" alt="Coding" width="500"  src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
-
+<br>
 
 - 🔭 Atualmente estou trabalhando em [TM Tabela de Preço](https://github.com/tunaiximenes/tm-tabelapreco)
 
