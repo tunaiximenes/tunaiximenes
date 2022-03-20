@@ -1,6 +1,6 @@
 ### 💬 Bem vindo, meu nome é Tunai Ximenes atualmente estou estudando Java, SprintBoot e REACT buscando uma transição de carreira para a área de Desenvolvimento de software.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunaiximenes&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunaiximenes&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
