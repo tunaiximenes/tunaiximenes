@@ -13,8 +13,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Protheus" height="30" width="40" src="https://github.com/tunaiximenes/tds-vscode/blob/master/imagens/totvs.svg">
 </div>
-
 <div> 
+ </br>
  Entre em contato comigo pelo Linkedin </br>
  <a href="https://www.linkedin.com/in/tunaiximenes/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
