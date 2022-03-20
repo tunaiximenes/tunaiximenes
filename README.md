@@ -8,7 +8,7 @@
 - 🌱 Autalmente estou estudando **Springboot, React, Protheus**
 
 - 💬 Pergunte me sobre **Java, OracleSQL**
-
+<br>
 <h3 align="left">Vamos nos conectar:</h3>
 <p align="left">
 <a href="https://codepen.io/tunaiximenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tunaiximenes" height="30" width="40" /></a>
